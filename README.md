@@ -1,32 +1,27 @@
-<<<<<<< HEAD
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
-=======
-# Chavez-tut
-For tut purposes
-This is tutorial purposes only
->>>>>>> 6a7a12481b5c76e06932e986d030b6150e20bd21
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpQIBAAKCAQEA6rDD4WEAYsHKmVoy6JuiuA1nSajDn2OJK7N+5vEoTBbsnH5V
+mIUr+eNsAA/nW0b11uW8nRrBEVkNn6fG0CX4r2M2aU5P+rcXGxt7DOBI4w5M9tre
+UQEh17HbuAys9rZrBCZStZwNugdKEhTIHqgjlbQU+IDtiK1Fx6wgTWvRzAKBH0JS
+sucmQfF7+3QZX/HefyDUyXUpo+9caPJMToywWoLigRjcA1rgR3wjkZcI0ToPqDKC
+kG2gOctSIPW9QtmaC43acyEFFL4LRpKG4fiyzBUCsrl7emnrktrw/Qv8zQYHM1o7
+NS+LbL6RbVY7jqvkap4nm5dO61Dv1Y+rqCulFwIDAQABAoIBAApjerg+R/sXIvW4
+1WoQgZpuFXVgQBCNImRJ1MM6R5NerGic+wL+Whz8oSo7if0zXex+TOQTbBpte7nm
+fll2ZNS2qpDsw4OQmTg89ixyvSc32dZPh+nECBB5MgWqofllx8TuQVkCqGTkr7Wv
+L9CTlseoqgj6BAm5yc3145QpwqaqHANK+VTCN0WFgeNkzXH9+UMFDEaZVO6j+fZ4
+QWmf07qa5o/4+BI1UWUvkBmv9BgRx8e8g78O7ltptOvQeFHZn1uWi7TB1w6NBBpD
+SL9EeFdY26b4fHWv+ZIGDKdOAUIyM1YN7Ga9OA0dum2Fz7gM1QVIEXoTaLqTgg+Y
+nbH9VHkCgYEA+I2vVh8Fg7mP7BD0LOUrosO3b8SfHjUo+eeQpA3bCxL8HxFLzbU5
+OlNeRvMC10emj68YDRmnAVii2zCe+aiLDfB681YNtrcCHOwuOcXeWr31LEHWhwbb
+qdOvObv883iYdGTIfq389kW3TNlIPm3PQRyjx81QSqg72aXPy+E5sZMCgYEA8bjB
+nQgNZubpVfKOrMjVp2Rf1oifBViiJqK4D1V/quOTuIFnN4ALRNbSpsSFCNqvT3sQ
+F26Y9gkgq2Ycr866zlwH7zSWuFB9qQ5KRJbr34ct9P0vP8w0OUZ8DDQHTzPTL2uI
+9b2ttBjXIEmN7F+7c43FiVtNvZQotYxvi4mcwO0CgYEAyJXHL1A/qgthq5gPBgA4
+E9WwvuFFrCIonG0VXF/WKvy6PPQ/YZZjxb8r8UQCQewP7hrW5ROTpFF8tDlrwn0T
+Iz+0aZZD4PWWHfM4ZuVZSY/NQVcsorGVKlusKIKeY3oqRpxi9WDCKZkfkUQ0ujTy
+MlDDl+YIaweTrVTT+mwbnEMCgYEAs2ZsTB+t0rGOfDuJqLNl3tagSpkbbNxbfFFI
+Shkqp6o/+LAR6x8dPfoyXZN9KRUlB9hOGRX8cJ5VoOAoalMEUiP7v41IT4NtwArb
+FAzvAvdRJILEjpUALYIijuwOgLn2AzvMapZcVU4aW9w7eTOT7C9MbKVXDVzo2dVg
+9C8uKAECgYEAu8jFE5sc20jA+7Jke4Hj9cfgb9r/gj43RuvQ7ifBXJo4Zc12021j
+HLbHORSwoafUVadHv7L6PKtKslCA4ykxG5PsQJzijXawlZyqSPy5LRIl2ZImPq46
+yI5xvS03oZ4wA2svsWpX+yZ2oCKDmXZIHLSlPbPerOa+JMF1rs3TP0g=
+-----END RSA PRIVATE KEY-----
