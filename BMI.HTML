@@ -1,0 +1,121 @@
+<!DOCTYPE html> 
+<html>
+  
+  <head>
+    <title>BMI CALCULATOR</title>
+    <link rel="stylesheet" type="text/css" href="BMI.css" />
+    
+    
+    <script type = "text/javascript">
+    
+    function calculateBMI() {
+        
+        var height = document.getElementById("height").value;
+        var weight = document.getElementById("weight").value;
+        
+        if((height%1>=0) && (weight%1>=0)) 
+        {
+        var heightInMeters = height/100;
+        
+        var bmi = weight / (heightInMeters*heightInMeters);
+        
+        var results = "This is your BMI for today  " + bmi.toFixed(2); 
+        
+         if(bmi<=18.5) 
+        {
+          results += "<br /> You are underweight";
+        }
+        
+        else if(bmi > 18.5  && bmi <= 24.9)
+        {
+          results += "<br /> Congrats you have normal weight!!!";
+        }
+        
+        else if(bmi > 24.9  && bmi <= 29.9)
+        {
+          results += "<br /> You are overweight";
+        }
+        
+        else {
+          results += "<br /> Be careful you are very obese";
+        }
+        
+        document.getElementById("output").innerHTML = results;
+        
+        
+    }
+        
+       
+        
+        
+        
+       
+        else {
+          alert("Please Enter Valid Inputs!");
+        }
+        
+        
+  }
+      
+  calculateBMI();
+      
+      
+    </script>
+  
+  </head>
+  
+  
+<body>
+  
+  <h1><i>YOUR Body Mass Index CALCULATOR!</i></h1>
+  
+  
+  <table>
+    <tr>
+      <td>Height:</td>  <td><input type="text" id="height"/></td>  <td>(in centimeters)</td>
+    </tr>
+    
+    <tr>
+      <td>Weight:</td>  <td><input type="text" id="weight"/></td>  <td>(in kilograms)</td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <button id="btnClick" onClick="calculateBMI()">Calculate BMI</button><br />
+  
+  
+  <div id="output"></div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</body>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</html>
