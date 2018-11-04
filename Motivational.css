@@ -1,0 +1,38 @@
+body {
+  background: #DAA520
+}
+
+#Apple {
+  margin:33px 33px 0 203px;
+}
+
+#wasp{
+  position:relative;
+  left:10px;
+  top:-250px;
+  color:yellow;
+  font-size:40px;
+  width:470px;
+  padding:10px;
+  text-align:center;
+  font-weight: 900;
+}
+
+#lion {
+  position: relative;
+  width:100px;
+  height:40px;
+  top:-93px;
+  margin-left:420px;
+}
+
+
+h1 {
+text-align: center;
+}
+
+img {
+  Height: 435px;
+  width: 920px;
+}
+
